@@ -2,9 +2,9 @@
 Source code of the paper "Data augmentation based semi-supervised method to improve COVID-19 CT classification"  
   
 # Datasets  
-COVID-CT: https://github.com/UCSD-AI4H/COVID-CT
-SARS-COV-2: https://www.kaggle.com/plameneduardo/sarscov2-ctscan-dataset
-Harvard Dataverse: https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/SZDUQX
+COVID-CT: https://github.com/UCSD-AI4H/COVID-CT  
+SARS-COV-2: https://www.kaggle.com/plameneduardo/sarscov2-ctscan-dataset  
+Harvard Dataverse: https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/SZDUQX  
   
 # How to Run  
 1.  Prepare Datasets. My file tree is as follows:  
